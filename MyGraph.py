@@ -12,3 +12,5 @@ plt.show()
 #git is an application that allows to track changes in project, can revert back if needed
 
 print("Hello there?")
+
+print("Hello again!")
